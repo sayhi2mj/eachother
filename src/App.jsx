@@ -10,8 +10,8 @@ import FlippingText from '@/components/FlippingText';
 import Vapi from '@vapi-ai/web';
 
 // IMPORTANT: Replace these with your actual Vapi credentials
-const VAPI_PUBLIC_KEY = 'YOUR_VAPI_PUBLIC_KEY'; 
-const VAPI_AGENT_ID = 'YOUR_VAPI_AGENT_ID';
+const VAPI_PUBLIC_KEY = "1d5b02c4-ad03-469e-ba16-68446bf7c529";
+const VAPI_AGENT_ID = "35bf7305-3ddf-4351-91f0-2a080d831793";
 
 function App() {
   const [isCalling, setIsCalling] = useState(false);
